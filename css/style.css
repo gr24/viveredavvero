@@ -27,13 +27,13 @@ nav .brand-logo {
   padding: 0 30px;
 }
 
-h3, h1 {
+h3, h2, h1 {
     font-family: 'Caveat', cursive, sans-serif;
     color: #fba45e;
 }
 
 h1 {
-  font-size: 7em;
+  font-size: 8em;
 }
 
 p {
@@ -63,12 +63,12 @@ p {
   width: 100%;
 }
 .header {
-  margin-top: 15%;
+  margin-top: 10%;
 }
 
 .header-subtitle {
   margin-top: 1%;
-  font-size: 3em;
+  font-size: 5em;
   color: white;
 }
 
@@ -139,7 +139,7 @@ p {
   background-color: #8b8bae;
 }
 
-.section-foto {
+.section-brevestoria {
   margin-top: 60px;
   height: 100%;
   width: 100%;
