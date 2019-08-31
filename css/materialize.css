@@ -2848,7 +2848,7 @@ video.responsive-video {
 .parallax img {
   display: none;
   position: absolute;
-  left: 70%;
+  left: 50%;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
@@ -4729,7 +4729,7 @@ small {
 
 @media only screen and (min-width: 993px) {
   #toast-container {
-    top: 10%;
+    top: 20%;
     right: 7%;
     max-width: 86%;
   }
